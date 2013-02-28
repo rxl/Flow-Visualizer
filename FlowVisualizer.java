@@ -1,9 +1,3 @@
-/**********************************************
-  * Ryan Shea
-  * MAE 423 - Heat Transfer
-  * Final Project
-  **********************************************/
-
 import java.awt.Color;
 
 public class FlowVisualizer
