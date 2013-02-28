@@ -1,9 +1,3 @@
-/**********************************************
-  * Ryan Shea
-  * MAE 423 - Heat Transfer
-  * Final Project
-**********************************************/
-
 import java.util.ArrayList;
 
 public class Flow
